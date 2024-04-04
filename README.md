@@ -38,5 +38,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](/img/ScreenshotCounter.png)
 
