@@ -12,20 +12,20 @@ Clone the project
 
 ## Usage
 
+You can try the Counter here:
+
 ```
-You can try the Counter here: https://javascriptbasiccounter.netlify.app
+https://javascriptbasiccounter.netlify.app
+```
 
 - To use the Counter, simply click on the "+" button to increment your value.
 - Click on the "-" button to decrease your value.
 - You can also click on the "Reset" button to restore your value to 0.
-```
 
 ## Screenshots
 
 ![App Screenshot](/img/ScreenshotCounter.png)
 
-```
 ## Authors
 
 - [@MrBrollo](https://www.github.com/MrBrollo)
-```
