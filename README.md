@@ -1,42 +1,31 @@
-
 # JavaScript Counter
 
 A counter made with JavaScript. By clicking on the corresponding buttons, you can increase, decrease or reset the number on display.
-
-
-## Authors
-
-- [@MrBrollo](https://www.github.com/MrBrollo)
-
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MrBrollo/JavascriptCalculator.git
 ```
 
-Go to the project directory
+## Usage
 
-```bash
-  cd my-project
 ```
+You can try the Counter here: https://javascriptbasiccounter.netlify.app
 
-Install dependencies
-
-```bash
-  npm install
+- To use the Counter, simply click on the "+" button to increment your value.
+- Click on the "-" button to decrease your value.
+- You can also click on the "Reset" button to restore your value to 0.
 ```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 
 ## Screenshots
 
 ![App Screenshot](/img/ScreenshotCounter.png)
 
+```
+## Authors
+
+- [@MrBrollo](https://www.github.com/MrBrollo)
+```
